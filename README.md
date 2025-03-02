@@ -4,10 +4,9 @@
 
 ## 🚀 Features
 - ✅ Real-time messaging
-- ✅ User authentication
 - ✅ Chat rooms
 - ✅ Online status indicator
-- ✅ Profile management
+
 
 ## 🛠 Installation & Setup
 
